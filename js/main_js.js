@@ -7,4 +7,10 @@ console.log('Alterando a Lista');
 console.log(lista);
 
 lista.pop("1");
-console.log(lista);
+console.log(lista); */
+
+var fruta = {
+    nome: "abacate",
+    cor: "verde"
+};
+console.log(fruta.nome);
